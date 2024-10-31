@@ -394,7 +394,7 @@ if __name__ == "__main__":
 
     # 데이터 root폴더(datasets folder)경로만 잘 지정해줄 것.
     ########################################################################
-    data_root = "C:\\Users\\H\\Desktop\\kakao_project\\datasets\\tld_db"
+    data_root = "/mnt/raid6/aa007878/choi/datasets"
     ########################################################################
 
     # check before augmentation
